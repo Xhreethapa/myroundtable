@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myroundtable/static/css/main.a48ff957.css",
+    "main.js": "/myroundtable/static/js/main.4b664e23.js",
+    "static/js/787.77b4f9f0.chunk.js": "/myroundtable/static/js/787.77b4f9f0.chunk.js",
+    "static/media/asish.png": "/myroundtable/static/media/asish.6b543ffd366a2823535b.png",
+    "static/media/rajat.png": "/myroundtable/static/media/rajat.1354ef80e1e4e1d567ec.png",
+    "static/media/roundtable.jpeg": "/myroundtable/static/media/roundtable.ee6e60b46af93d52859f.jpeg",
+    "static/media/rotateme.png": "/myroundtable/static/media/rotateme.c8ea55747241dbfa7017.png",
+    "static/media/regis.png": "/myroundtable/static/media/regis.0d731dfa5d99a2a9d9e3.png",
+    "index.html": "/myroundtable/index.html",
+    "main.a48ff957.css.map": "/myroundtable/static/css/main.a48ff957.css.map",
+    "main.4b664e23.js.map": "/myroundtable/static/js/main.4b664e23.js.map",
+    "787.77b4f9f0.chunk.js.map": "/myroundtable/static/js/787.77b4f9f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a48ff957.css",
+    "static/js/main.4b664e23.js"
+  ]
+}
